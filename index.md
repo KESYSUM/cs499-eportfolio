@@ -19,31 +19,40 @@ This portfolio demonstrates my growth throughout the Computer Science program at
 [Code Review Video]
 https://youtu.be/W_fK0Tp6a0I?si=HzbJpFMGXxYC0lqb
 
-
+---
 ## Enhancement One: Software Design and Engineering
 
-[Artifact Narrative](Kayden Sysum.Milestone two (1).docx) https://github.com/KESYSUM/cs499-eportfolio/blob/main/Kayden%20Sysum.Milestone%20two%20(1).docx
+[Artifact Narrative]
+(Kayden Sysum.Milestone two (1).docx) https://github.com/KESYSUM/cs499-eportfolio/blob/main/Kayden%20Sysum.Milestone%20two%20(1).docx
 
-[Original Artifact](ProjectThree360 (2))
+[Original Artifact]
+(ProjectThree360 (2))
 
-[Enhanced Artifact](Kayden Sysum.Milestone twoEnhanced)
+[Enhanced Artifact]
+(Kayden Sysum.Milestone twoEnhanced)
 
 ---
 
 ## Enhancement Two: Algorithms and Data Structures
 
-[Artifact Narrative](mod3Codenarrativecs499 (2).docx)
+[Artifact Narrative]
+(mod3Codenarrativecs499 (2).docx)
 
-[Original Artifact](ProjectThree360 (4).zip)
+[Original Artifact]
+(ProjectThree360 (4).zip)
 
-[Enhanced Artifact]()
+[Enhanced Artifact]
+(mod3Codenarrativecs499Enhanced)
 
 ---
 
 ## Enhancement Three: Databases
 
-[Artifact Narrative](5-2narrativecs499 (1).docx)
+[Artifact Narrative]
+(5-2narrativecs499 (1).docx)
 
-[Original Artifact](ProjectThree360 (5).zip)
+[Original Artifact]
+(ProjectThree360 (5).zip)
 
-[Enhanced Artifact]()
+[Enhanced Artifact]
+(5-2narrativecs499 (1).docx)
