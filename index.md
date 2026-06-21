@@ -34,16 +34,16 @@ This portfolio demonstrates my growth throughout the Computer Science program at
 
 [Artifact Narrative](mod3Codenarrativecs499 (2).docx)
 
-[Original Artifact](AlgorithmsDataStructures/OriginalArtifact.zip)
+[Original Artifact](ProjectThree360 (4).zip)
 
-[Enhanced Artifact](ProjectThree360 (4).zip)
+[Enhanced Artifact]()
 
 ---
 
 ## Enhancement Three: Databases
 
-[Artifact Narrative](Databases/Narrative.pdf)
+[Artifact Narrative](5-2narrativecs499 (1).docx)
 
-[Original Artifact](Databases/OriginalArtifact.zip)
+[Original Artifact](ProjectThree360 (5).zip)
 
 [Enhanced Artifact]()
