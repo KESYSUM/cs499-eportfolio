@@ -32,11 +32,11 @@ This portfolio demonstrates my growth throughout the Computer Science program at
 
 ## Enhancement Two: Algorithms and Data Structures
 
-[Artifact Narrative](AlgorithmsDataStructures/Narrative.pdf)
+[Artifact Narrative](mod3Codenarrativecs499 (2).docx)
 
 [Original Artifact](AlgorithmsDataStructures/OriginalArtifact.zip)
 
-[Enhanced Artifact]()
+[Enhanced Artifact](ProjectThree360 (4).zip)
 
 ---
 
