@@ -4,13 +4,13 @@
 
 Welcome to my CS-499 Capstone ePortfolio.
 
-This portfolio demonstrates my growth throughout the Computer Science program at Southern New Hampshire University.
+This portfolio demonstrates my growth throughout the Computer Science program at Southern New Hampshire University Online.
 
 ---
 
 ## Professional Self-Assessment
 
-[Professional Self-Assessment](SelfAssessment/ProfessionalSelfAssessment.pdf)
+[Professional Self-Assessment]()
 
 ---
 
@@ -26,7 +26,7 @@ This portfolio demonstrates my growth throughout the Computer Science program at
 
 [Original Artifact](ProjectThree360 (2))
 
-[Enhanced Artifact](SoftwareEngineering/EnhancedArtifact.zip)
+[Enhanced Artifact]()
 
 ---
 
@@ -36,7 +36,7 @@ This portfolio demonstrates my growth throughout the Computer Science program at
 
 [Original Artifact](AlgorithmsDataStructures/OriginalArtifact.zip)
 
-[Enhanced Artifact](AlgorithmsDataStructures/EnhancedArtifact.zip)
+[Enhanced Artifact]()
 
 ---
 
@@ -46,4 +46,4 @@ This portfolio demonstrates my growth throughout the Computer Science program at
 
 [Original Artifact](Databases/OriginalArtifact.zip)
 
-[Enhanced Artifact](Databases/EnhancedArtifact.zip)
+[Enhanced Artifact]()
