@@ -22,7 +22,7 @@ This portfolio demonstrates my growth throughout the Computer Science program at
 
 ## Enhancement One: Software Design and Engineering
 
-[Artifact Narrative](Kayden Sysum.Milestone two (1))
+[Artifact Narrative](Kayden Sysum.Milestone two (1).docx)
 
 [Original Artifact](ProjectThree360 (2))
 
