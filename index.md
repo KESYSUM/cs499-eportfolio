@@ -10,15 +10,15 @@ This portfolio demonstrates my growth throughout the Computer Science program at
 
 ## Professional Self-Assessment
 
-[Professional Self-Assessment](https://youtu.be/W_fK0Tp6a0I?si=HzbJpFMGXxYC0lqb)
+[Professional Self-Assessment]
 
 ---
 
 ## Code Review
 
 [Code Review Video]
+https://youtu.be/W_fK0Tp6a0I?si=HzbJpFMGXxYC0lqb
 
----
 
 ## Enhancement One: Software Design and Engineering
 
